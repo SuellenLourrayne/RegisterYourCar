@@ -64,7 +64,8 @@ input[type="date"] {
   appearance: none; /* Remove default browser styling */
   -webkit-appearance: none; /* For Webkit-based browsers */
   -moz-appearance: none; /* For Mozilla-based browsers */
-  width: 20.5rem;
+  min-width: 20.5rem;
+  max-width: 30rem;
 }
 
 .checkbox label {
