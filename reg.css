@@ -50,6 +50,7 @@ input[type="radio"]:checked {
     padding-top: 2rem;
     margin-top: 2rem;
     border-top: solid 1px #eff0f1;
+    color: #819198;
 }
 
 .main-content {
