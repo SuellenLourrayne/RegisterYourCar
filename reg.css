@@ -52,3 +52,9 @@ input[type="radio"]:checked {
     border-top: solid 1px #eff0f1;
 }
 
+.main-content {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+}
+
+
