@@ -10,7 +10,7 @@ body {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1.3rem;
+    font-size: 1rem;
     padding: 2rem 1rem;
 }
 
@@ -20,7 +20,8 @@ body {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
-    margin-left: auto;
+    margin-left: auto;    
+    font-size: 1.3rem;
 }
 
 .title {
