@@ -60,7 +60,7 @@ input[type="radio"]:checked {
   border-color:green;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 100px) {
   input[type="date"] {
   appearance: none; /* Remove default browser styling */
   -webkit-appearance: none; /* For Webkit-based browsers */
