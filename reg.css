@@ -60,6 +60,11 @@ input[type="radio"]:checked {
   border-color:green;
 }
 
+input[type='date'] {
+    width: 100%;
+    max-width: 30rem;
+}
+
 .role {
   width: 37%;
   margin-right: 3%;
@@ -78,9 +83,5 @@ input[type="radio"]:checked {
     color: #819198;
 }
 
-#CHECK-OUT {
-    width: 100%;
-    max-width: 30rem;
-}
 
 
