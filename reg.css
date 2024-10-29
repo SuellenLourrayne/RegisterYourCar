@@ -10,7 +10,6 @@ body {
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
-    font-size: 1rem;
     padding: 2rem 1rem;
 }
 
@@ -21,7 +20,7 @@ body {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;    
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
 .title {
@@ -32,7 +31,7 @@ body {
 }
 
 .form-check-label {
-    font-size: 0.8rem;
+    font-size: 0.7rem;
 }
 
 input[type='radio'] {
