@@ -65,6 +65,15 @@ input[type='date'] {
     max-width: 30rem;
 }
 
+input[type="date"] {
+  appearance: none; /* Remove default browser styling */
+  -webkit-appearance: none; /* For Webkit-based browsers */
+  -moz-appearance: none; /* For Mozilla-based browsers */
+  width: 100%;
+  max-width: 30rem;
+  height: 40px;
+}
+
 .checkbox label {
   margin-bottom: 20px !important;
 }
