@@ -45,3 +45,10 @@ input[type="radio"]:checked {
     font-weight: normal;
     color: #159957;
 }
+
+.site-footer {
+    padding-top: 2rem;
+    margin-top: 2rem;
+    border-top: solid 1px #eff0f1;
+}
+
