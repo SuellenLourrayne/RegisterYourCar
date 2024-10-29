@@ -60,11 +60,13 @@ input[type="radio"]:checked {
   border-color:green;
 }
 
-input[type="date"] {
+@media (min-width: 500px) {
+  input[type="date"] {
   appearance: none; /* Remove default browser styling */
   -webkit-appearance: none; /* For Webkit-based browsers */
   -moz-appearance: none; /* For Mozilla-based browsers */
   width: 20.5rem;
+  }
 }
 
 .checkbox label {
